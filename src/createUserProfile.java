@@ -13,6 +13,8 @@ public class createUserProfile {
     userWeight = 0;
     userAge = 0;
     userGender = 0;
+
+
 }
 
 public createUserProfile(String userName, int userHeight, int userWeight, int userAge, int userGender) {
