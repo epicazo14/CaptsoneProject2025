@@ -5,65 +5,65 @@ Incline Bench Press,Chest,Compound,10,4
 Decline Bench Press,Chest,Compound,10,4
 Cable Pullover,Chest,Accessory,10,3
 Close Grip Bench Press,Chest,Compound,10,4
-Machine Chest Press,Chest,Compound,10,3
+Machine Chest Press,Chest,Compound,10,4
 Machine Chest Fly,Chest,Accessory,12,3
 Dumbell Chest Fly,Chest,Accessory,12,3
 Push Up,Chest,Accessory,20,3
-Arnold Press,Shoulder,Compound,12,3
+Arnold Press,Shoulder,Compound,12,4
 Front Raise,Shoulder,Accessory,10,3
 Lateral Raise,Shoulder,Accessory,10,3
 Rear Delt Fly,Shoulder,Accessory,10,3
 Barbell Overhead Press,Shoulder,Compound,10,4
 Dumbell Overhead Press,Shoulder,Compound,10,4
 Handstand Push-Up,Shoulder,Accessory,10,3
-Shrugs,Shoulder,Accessory,12,4
+Shrugs,Shoulder,Accessory,15,3
 Upright Row,Shoulder,Accessory,10,3
 Face Pull,Shoulder,Accessory,15,3
-Barbell Curl,Bicep,Accessory,4,10
-Barbell Preacher Curl,Bicep,Accessory,3,10
-Dumbell Curl,Bicep,Accessory,4,10
-Spider Curl,Bicep,Accessory,3,10
-Bayesian Cable Curl,Bicep,Accessory,3,10
-Hammer Curl,Bicep,Accessory,3,10
-Incline Dumbell Curl,Bicep,Accessory,3,10
-Concentration Curl,Bicep,Accessory,3,10
-Tricep Pushdown with Bar,Tricep,Accessory,3,10
-Tricep Pushdown with Rope,Tricep,Accessory,3,10
-Overhead Tricep Extension,Tricep,Accessory,3,10
-Skullcrushers,Tricep,Accessory,3,10
-Incline Skullcrushers,Tricep,Accessory,3,10
-Bench Dip,Tricep,Accessory,3,10
-Diamond Push-Up,Tricep,Accessory,3,10
-Overhead Cable Tricep Extension,Tricep,Accessory,3,10
-Barbell Squat,Legs,Compound,4,10
-Dumbell Lunge,Legs,Accessory,3,15
-Leg Press,Legs,Compound,4,10
-Goblet Squats,Legs,Compound,4,10
-Romanian Dead Lift,Legs,Compound,4,10
-Dead Lift,Legs,Compound,4,10
-Box Jump,Legs,Accessory,3,10
-Calf Raises,Legs,Accessory,3,10
-Hamstring Curl,Legs,Accessory,3,10
-Quad Extension,Legs,Accessory,3,10
-Side Lunges,Legs,Accessory,3,12
-Step Ups,Legs,Accessory,3,12
-Pull Up,Back,Compound,4,8
-Lat Pulldown,Back,Compound,4,10
-Barbell Row,Back,Compound,4,10
-Single Arm Row,Back,Compound,4,10
-Chest Supported Row,Back,Compound,4,10
-Inverted Row,Back,Accessory,3,12
-Bent Over Row,Back,Accessory,3,10
-Pendlay Row,Back,Accessory,3,10
-Y Raise,Back,Accessory,3,10
-T Raise,Back,Accessory,3,10
-Crunch,Abs,Accessory,3,20
-Dead Bug,Abs,Accessory,3,15
-Hanging Knee Raisen,Abs,Accessory,3,10
-Hanging Leg Raise,Abs,Accessory,3,10
-Hanging Wind Shield Wiper,Abs,Accessory,3,10
-V-Up,Abs,Accessory,3,10
-Russian Twist,Abs,Accessory,3,10
-Penguins,Abs,Accessory,3,10
-Sit-Up,Abs,Accessory,3,10
-Side Plank,Abs,Accessory,3,10
+Barbell Curl,Bicep,Accessory,10,4
+Barbell Preacher Curl,Bicep,Accessory,10,3
+Dumbell Curl,Bicep,Accessory,10,3
+Spider Curl,Bicep,Accessory,10,3
+Bayesian Cable Curl,Bicep,Accessory,10,3
+Hammer Curl,Bicep,Accessory,10,3
+Incline Dumbell Curl,Bicep,Accessory,10,3
+Concentration Curl,Bicep,Accessory,10,3
+Tricep Pushdown with Bar,Tricep,Accessory,10,3
+Tricep Pushdown with Rope,Tricep,Accessory,10,3
+Overhead Tricep Extension,Tricep,Accessory,10,3
+Skullcrushers,Tricep,Accessory,10,3
+Incline Skullcrushers,Tricep,Accessory,10,3
+Bench Dip,Tricep,Accessory,10,3
+Diamond Push-Up,Tricep,Accessory,10,3
+Overhead Cable Tricep Extension,Tricep,Accessory,10,3
+Barbell Squat,Legs,Compound,10,4
+Dumbell Lunge,Legs,Accessory,15,3
+Leg Press,Legs,Compound,10,4
+Goblet Squats,Legs,Compound,10,4
+Romanian Dead Lift,Legs,Compound,10,4
+Dead Lift,Legs,Compound,10,4
+Box Jump,Legs,Accessory,10,3
+Calf Raises,Legs,Accessory,10,3
+Hamstring Curl,Legs,Accessory,10,3
+Quad Extension,Legs,Accessory,10,3
+Side Lunges,Legs,Accessory,12,3
+Step Ups,Legs,Accessory,12,3
+Pull Up,Back,Compound,8,4
+Lat Pulldown,Back,Compound,10,4
+Barbell Row,Back,Compound,10,4
+Single Arm Row,Back,Compound,10,4
+Chest Supported Row,Back,Compound,10,4
+Inverted Row,Back,Accessory,12,3
+Bent Over Row,Back,Accessory,10,3
+Pendlay Row,Back,Accessory,10,3
+Y Raise,Back,Accessory,10,3
+T Raise,Back,Accessory,10,3
+Crunch,Abs,Accessory,20,3
+Dead Bug,Abs,Accessory,15,3
+Hanging Knee Raisen,Abs,Accessory,10,3
+Hanging Leg Raise,Abs,Accessory,10,3
+Hanging Wind Shield Wiper,Abs,Accessory,10,3
+V-Up,Abs,Accessory,10,3
+Russian Twist,Abs,Accessory,10,3
+Penguins,Abs,Accessory,10,3
+Sit-Up,Abs,Accessory,10,3
+Side Plank,Abs,Accessory,10,3

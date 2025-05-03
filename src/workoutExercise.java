@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class workoutExercise {
     String name;
     String muscleGroup;
@@ -12,11 +14,20 @@ public class workoutExercise {
         this.repAmnt = amntOfReps;
         this.setAmnt = amntOfSets;
     }
+    public int getSetAmnt() {
+        return setAmnt;
+    }
+    public String getMuscleGroup() {
+        return muscleGroup;
+    }
 
     public String toString(){
-       return (name + "\n" + setAmnt + " Sets of " + repAmnt + " Reps");
+       return (name + "\n" + setAmnt + " Sets of " + repAmnt + " Reps\n");
 
     }
+
+
+
 
 
 
